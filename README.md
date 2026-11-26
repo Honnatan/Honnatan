@@ -43,3 +43,6 @@ My goal is to transition into a Junior Data Analyst role, combining my operation
 ## **Let's Connect**
 
 I'm always interested in learning, collaborating, and exploring opportunities in Data Analytics.
+
+- Email: jonnatanmartinez88@gmail.com
+- LinkedIn: www.linkedin.com/in/jonnatan-martinez-6232072b9
