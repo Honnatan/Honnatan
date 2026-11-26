@@ -30,6 +30,10 @@ Evaluating conversion rates, sales, revenue, and campaign performance.
 
 Using Power BI to identify business insights and improvement opportunities.
 
+<a href="https://github.com/Honnatan/data-analyst-project-277.git">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 **More projects coming soon!**
 
 ## **Career Goal**
